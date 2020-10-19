@@ -6,7 +6,8 @@
 ## demo
 
 * [api](demo/api.md)
-* [demo 1](demo/demo-1.md)
+* [demo 1](demo/demo-1/README.md)
+  * [test 2\_temp](demo/demo-1/test-2_temp.md)
 
 ## blogs
 
