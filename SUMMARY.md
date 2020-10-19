@@ -8,3 +8,7 @@
 * [api](demo/api.md)
 * [demo 1](demo/demo-1.md)
 
+## blogs
+
+* [Hardware engineer student \(part-time\)](blogs/hardware-engineer-student-part-time.md)
+
